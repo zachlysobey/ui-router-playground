@@ -1,0 +1,11 @@
+{
+  "name": "ui-router-playground",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Zach Lysobey",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "angular-ui-router": "^0.2.15"
+  }
+}
